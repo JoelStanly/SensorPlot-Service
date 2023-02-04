@@ -808,3 +808,56 @@ SensorPlot(sensorId=1L, floor=1, room=1)
 2023-02-04T11:11:24.390+05:30  INFO 20100 --- [restartedMain] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at : http://localhost:9296
 2023-02-04T11:11:25.134+05:30  INFO 20100 --- [restartedMain] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=SENSOR-PLOT, profiles=[default], label=null, version=6cb49ea36173c789d3708cd9c0105dc9bd98f1ee, state=null
 2023-02-04T11:11:25.135+05:30  INFO 20100 --- [restartedMain] b.c.PropertySourceBootstrapConfiguration : Located property source: [BootstrapPropertySource {name='bootstrapProperties-configClient'}, BootstrapPropertySource {name='bootstrapProperties-https://github.com/JoelStanly/cloud-config-server/application.yml'}]
+2023-02-04T11:11:25.142+05:30  INFO 20100 --- [restartedMain] c.a.s.SensorplotServiceApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-02-04T11:11:25.589+05:30  INFO 20100 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=8499fe5f-42f7-3adf-baf7-3c57105596c7
+2023-02-04T11:11:25.842+05:30  INFO 20100 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9001 (http)
+2023-02-04T11:11:25.848+05:30  INFO 20100 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-02-04T11:11:25.848+05:30  INFO 20100 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-02-04T11:11:25.887+05:30  INFO 20100 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-02-04T11:11:25.887+05:30  INFO 20100 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 738 ms
+2023-02-04T11:11:26.475+05:30  WARN 20100 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-02-04T11:11:26.504+05:30  INFO 20100 --- [restartedMain] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2023-02-04T11:11:26.523+05:30  WARN 20100 --- [restartedMain] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2023-02-04T11:11:26.530+05:30  INFO 20100 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-02-04T11:11:26.565+05:30  INFO 20100 --- [restartedMain] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2023-02-04T11:11:26.582+05:30  INFO 20100 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2023-02-04T11:11:26.586+05:30  INFO 20100 --- [restartedMain] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T11:11:26.597+05:30  INFO 20100 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2023-02-04T11:11:26.597+05:30  INFO 20100 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2023-02-04T11:11:26.598+05:30  INFO 20100 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2023-02-04T11:11:26.598+05:30  INFO 20100 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2023-02-04T11:11:26.598+05:30  INFO 20100 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2023-02-04T11:11:26.598+05:30  INFO 20100 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2023-02-04T11:11:26.598+05:30  INFO 20100 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2023-02-04T11:11:26.694+05:30  INFO 20100 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2023-02-04T11:11:26.696+05:30  INFO 20100 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2023-02-04T11:11:26.697+05:30  INFO 20100 --- [restartedMain] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2023-02-04T11:11:26.700+05:30  INFO 20100 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1675489286699 with initial instances count: 3
+2023-02-04T11:11:26.701+05:30  INFO 20100 --- [restartedMain] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application SENSOR-PLOT with eureka with status UP
+2023-02-04T11:11:26.701+05:30  INFO 20100 --- [restartedMain] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1675489286701, current=UP, previous=STARTING]
+2023-02-04T11:11:26.702+05:30  INFO 20100 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SENSOR-PLOT/Ghost:SENSOR-PLOT:9001: registering service...
+2023-02-04T11:11:26.715+05:30  INFO 20100 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9001 (http) with context path ''
+2023-02-04T11:11:26.715+05:30  INFO 20100 --- [restartedMain] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 9001
+2023-02-04T11:11:26.723+05:30  INFO 20100 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SENSOR-PLOT/Ghost:SENSOR-PLOT:9001 - registration status: 204
+2023-02-04T11:11:26.748+05:30  INFO 20100 --- [restartedMain] c.a.s.SensorplotServiceApplication       : Started SensorplotServiceApplication in 2.908 seconds (process running for 3.386)
+2023-02-04T11:11:27.588+05:30  INFO 20100 --- [RMI TCP Connection(9)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-04T11:11:27.588+05:30  INFO 20100 --- [RMI TCP Connection(9)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-02-04T11:11:27.589+05:30  INFO 20100 --- [RMI TCP Connection(9)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-02-04T11:12:12.868+05:30  INFO 20100 --- [http-nio-9001-exec-1] c.a.s.controller.SensorPlotController    : Sensor Details is being saved with data:
+SensorPlot(sensorId=null, floor=1, room=2)
+2023-02-04T11:12:23.638+05:30  WARN 20100 --- [http-nio-9001-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2023-02-04T11:12:27.286+05:30  INFO 20100 --- [http-nio-9001-exec-3] c.a.s.controller.SensorPlotController    : Getting all Sensor Details
+2023-02-04T11:12:42.123+05:30  INFO 20100 --- [http-nio-9001-exec-4] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 42883774-172e-4363-9263-dcaeefb31a10
+2023-02-04T11:12:49.791+05:30  INFO 20100 --- [http-nio-9001-exec-5] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 42883774
+2023-02-04T11:12:49.818+05:30  INFO 20100 --- [http-nio-9001-exec-5] c.a.s.controller.SensorPlotController    : No Data found with the following errors:
+
+{errorMessage=SensorPlot of sensor :42883774 Not found}
+2023-02-04T11:12:49.819+05:30  WARN 20100 --- [http-nio-9001-exec-5] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.aqms.sensorplot.exception.ResourceNotFoundException]
+2023-02-04T11:14:07.909+05:30  INFO 20100 --- [http-nio-9001-exec-6] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: asd2adsa13121dadfsgafafasdad
+2023-02-04T11:14:08.067+05:30  INFO 20100 --- [http-nio-9001-exec-6] c.a.s.controller.SensorPlotController    : No Data found with the following errors:
+
+{errorMessage=SensorPlot of sensor :asd2adsa13121dadfsgafafasdad Not found}
+2023-02-04T11:14:08.068+05:30  WARN 20100 --- [http-nio-9001-exec-6] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.aqms.sensorplot.exception.ResourceNotFoundException]
+2023-02-04T11:14:26.267+05:30  INFO 20100 --- [http-nio-9001-exec-7] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 42883774-172e-4363-9263-dcaeefb31a10
+2023-02-04T11:14:26.311+05:30  INFO 20100 --- [http-nio-9001-exec-8] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 42883774-172e-4363-9263-dcaeefb31a10
+2023-02-04T11:16:26.603+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
