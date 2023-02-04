@@ -1,0 +1,16 @@
+logging:
+   file:
+      name: LogInfo.log
+   level:
+      com:
+         awsiot: INFO
+server:
+   port: 9001
+spring:
+   application:
+      name: SENSOR-PLOT
+aws:
+  accessKeyId: AKIARHZYVJ753AKQMJ24
+  secretKeyId: BvNu8acRSlUGEFvDgM0uBW4C2QpYbubtUBoUA5gR
+  dynamoDBEndpoint: dynamodb.ap-south-1.amazonaws.com
+  region: ap-south-1
