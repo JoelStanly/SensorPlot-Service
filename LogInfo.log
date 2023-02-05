@@ -861,3 +861,172 @@ SensorPlot(sensorId=null, floor=1, room=2)
 2023-02-04T11:14:26.267+05:30  INFO 20100 --- [http-nio-9001-exec-7] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 42883774-172e-4363-9263-dcaeefb31a10
 2023-02-04T11:14:26.311+05:30  INFO 20100 --- [http-nio-9001-exec-8] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 42883774-172e-4363-9263-dcaeefb31a10
 2023-02-04T11:16:26.603+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T11:21:26.613+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T11:26:26.620+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T11:31:26.633+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T11:36:26.637+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T11:41:26.648+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T11:46:26.662+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T11:51:26.664+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T11:56:26.665+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T12:01:26.678+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T12:06:26.687+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T12:11:26.690+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T12:16:26.696+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T12:21:26.712+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T12:26:26.718+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T12:31:26.731+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T12:36:26.736+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T12:41:26.747+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T12:46:26.762+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T12:51:26.766+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T12:56:26.780+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T13:01:26.790+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T13:06:26.805+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T13:11:26.807+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T13:16:26.809+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T13:21:26.817+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T13:26:26.817+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T13:31:26.832+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T13:36:26.846+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T13:41:26.862+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T13:46:26.873+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T13:51:26.876+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T13:56:26.883+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T14:01:26.897+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T14:06:26.904+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T14:11:26.916+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T14:16:26.918+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T14:21:26.923+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T14:26:26.936+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T14:31:26.937+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T14:36:26.938+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T14:41:26.943+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T14:46:26.953+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T14:51:26.964+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T14:56:26.971+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T15:01:26.973+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T15:06:26.983+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T15:11:26.989+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T15:16:27.001+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T15:21:27.009+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T15:26:27.023+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T15:31:27.030+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T15:36:27.036+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T15:41:27.046+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T15:46:27.054+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T15:51:27.060+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T15:56:27.062+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T16:01:27.070+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T16:06:27.073+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T16:11:27.085+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T16:16:27.100+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T16:21:27.114+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T16:26:27.128+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T16:31:27.134+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T16:36:27.141+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T16:41:27.157+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T16:46:27.167+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T16:51:27.180+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T16:56:27.191+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T17:01:27.199+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T17:06:27.205+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T17:11:27.221+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T17:16:27.224+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T17:21:27.234+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T17:26:27.236+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T17:31:27.245+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T17:36:27.253+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T17:39:35.905+05:30  INFO 20100 --- [http-nio-9001-exec-10] c.a.s.controller.SensorPlotController    : Sensor Details is being saved with data:
+SensorPlot(sensorId=null, floor=1, room=1)
+2023-02-04T17:39:39.473+05:30  INFO 20100 --- [http-nio-9001-exec-1] c.a.s.controller.SensorPlotController    : Sensor Details is being saved with data:
+SensorPlot(sensorId=null, floor=3, room=6)
+2023-02-04T17:39:42.837+05:30  INFO 20100 --- [http-nio-9001-exec-2] c.a.s.controller.SensorPlotController    : Sensor Details is being saved with data:
+SensorPlot(sensorId=null, floor=3, room=2)
+2023-02-04T17:39:44.418+05:30  INFO 20100 --- [http-nio-9001-exec-3] c.a.s.controller.SensorPlotController    : Sensor Details is being saved with data:
+SensorPlot(sensorId=null, floor=1, room=6)
+2023-02-04T17:39:46.542+05:30  INFO 20100 --- [http-nio-9001-exec-4] c.a.s.controller.SensorPlotController    : Sensor Details is being saved with data:
+SensorPlot(sensorId=null, floor=2, room=5)
+2023-02-04T17:40:16.385+05:30  INFO 20100 --- [http-nio-9001-exec-5] c.a.s.controller.SensorPlotController    : Getting all Sensor Details
+2023-02-04T17:40:16.440+05:30  INFO 20100 --- [http-nio-9001-exec-6] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: a84b87f9-a55e-44de-ae39-f0a20cd607d6
+2023-02-04T17:40:16.465+05:30  INFO 20100 --- [http-nio-9001-exec-7] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: a84b87f9-a55e-44de-ae39-f0a20cd607d6
+2023-02-04T17:40:31.785+05:30  INFO 20100 --- [http-nio-9001-exec-8] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 9cc5af43-9727-4747-a866-2033234ed87c
+2023-02-04T17:40:31.812+05:30  INFO 20100 --- [http-nio-9001-exec-9] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 9cc5af43-9727-4747-a866-2033234ed87c
+2023-02-04T17:40:45.748+05:30  INFO 20100 --- [http-nio-9001-exec-10] c.a.s.controller.SensorPlotController    : Getting all Sensor Details
+2023-02-04T17:40:45.780+05:30  INFO 20100 --- [http-nio-9001-exec-1] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: a84b87f9-a55e-44de-ae39-f0a20cd607d6
+2023-02-04T17:40:45.803+05:30  INFO 20100 --- [http-nio-9001-exec-2] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: a84b87f9-a55e-44de-ae39-f0a20cd607d6
+2023-02-04T17:40:55.954+05:30  INFO 20100 --- [http-nio-9001-exec-3] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 9cc5af43-9727-4747-a866-2033234ed87c
+2023-02-04T17:40:55.977+05:30  INFO 20100 --- [http-nio-9001-exec-4] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 9cc5af43-9727-4747-a866-2033234ed87c
+2023-02-04T17:41:06.128+05:30  INFO 20100 --- [http-nio-9001-exec-5] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 09965348-9f22-4888-85be-4f70e0566443
+2023-02-04T17:41:06.152+05:30  INFO 20100 --- [http-nio-9001-exec-6] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 09965348-9f22-4888-85be-4f70e0566443
+2023-02-04T17:41:16.303+05:30  INFO 20100 --- [http-nio-9001-exec-7] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: fdb6eecd-092e-4340-af79-3d74b1a1b5ff
+2023-02-04T17:41:16.327+05:30  INFO 20100 --- [http-nio-9001-exec-8] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: fdb6eecd-092e-4340-af79-3d74b1a1b5ff
+2023-02-04T17:41:26.487+05:30  INFO 20100 --- [http-nio-9001-exec-9] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 881bd3a5-8697-4b0c-bc3a-f57192fe1518
+2023-02-04T17:41:26.511+05:30  INFO 20100 --- [http-nio-9001-exec-10] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 881bd3a5-8697-4b0c-bc3a-f57192fe1518
+2023-02-04T17:41:27.257+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T17:41:36.690+05:30  INFO 20100 --- [http-nio-9001-exec-1] c.a.s.controller.SensorPlotController    : Getting all Sensor Details
+2023-02-04T17:41:36.720+05:30  INFO 20100 --- [http-nio-9001-exec-2] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: a84b87f9-a55e-44de-ae39-f0a20cd607d6
+2023-02-04T17:41:36.743+05:30  INFO 20100 --- [http-nio-9001-exec-3] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: a84b87f9-a55e-44de-ae39-f0a20cd607d6
+2023-02-04T17:41:46.894+05:30  INFO 20100 --- [http-nio-9001-exec-4] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 9cc5af43-9727-4747-a866-2033234ed87c
+2023-02-04T17:41:56.948+05:30  INFO 20100 --- [http-nio-9001-exec-5] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 09965348-9f22-4888-85be-4f70e0566443
+2023-02-04T17:41:56.971+05:30  INFO 20100 --- [http-nio-9001-exec-6] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 09965348-9f22-4888-85be-4f70e0566443
+2023-02-04T17:42:07.118+05:30  INFO 20100 --- [http-nio-9001-exec-7] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: fdb6eecd-092e-4340-af79-3d74b1a1b5ff
+2023-02-04T17:42:17.174+05:30  INFO 20100 --- [http-nio-9001-exec-8] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 881bd3a5-8697-4b0c-bc3a-f57192fe1518
+2023-02-04T17:42:27.228+05:30  INFO 20100 --- [http-nio-9001-exec-9] c.a.s.controller.SensorPlotController    : Getting all Sensor Details
+2023-02-04T17:42:27.255+05:30  INFO 20100 --- [http-nio-9001-exec-10] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: a84b87f9-a55e-44de-ae39-f0a20cd607d6
+2023-02-04T17:42:27.277+05:30  INFO 20100 --- [http-nio-9001-exec-1] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: a84b87f9-a55e-44de-ae39-f0a20cd607d6
+2023-02-04T17:42:37.447+05:30  INFO 20100 --- [http-nio-9001-exec-2] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 9cc5af43-9727-4747-a866-2033234ed87c
+2023-02-04T17:42:47.505+05:30  INFO 20100 --- [http-nio-9001-exec-3] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 09965348-9f22-4888-85be-4f70e0566443
+2023-02-04T17:42:57.563+05:30  INFO 20100 --- [http-nio-9001-exec-4] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: fdb6eecd-092e-4340-af79-3d74b1a1b5ff
+2023-02-04T17:42:57.586+05:30  INFO 20100 --- [http-nio-9001-exec-5] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: fdb6eecd-092e-4340-af79-3d74b1a1b5ff
+2023-02-04T17:43:07.751+05:30  INFO 20100 --- [http-nio-9001-exec-6] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 881bd3a5-8697-4b0c-bc3a-f57192fe1518
+2023-02-04T17:43:17.805+05:30  INFO 20100 --- [http-nio-9001-exec-7] c.a.s.controller.SensorPlotController    : Getting all Sensor Details
+2023-02-04T17:43:17.833+05:30  INFO 20100 --- [http-nio-9001-exec-8] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: a84b87f9-a55e-44de-ae39-f0a20cd607d6
+2023-02-04T17:43:17.856+05:30  INFO 20100 --- [http-nio-9001-exec-9] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: a84b87f9-a55e-44de-ae39-f0a20cd607d6
+2023-02-04T17:43:28.041+05:30  INFO 20100 --- [http-nio-9001-exec-10] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 9cc5af43-9727-4747-a866-2033234ed87c
+2023-02-04T17:43:38.094+05:30  INFO 20100 --- [http-nio-9001-exec-1] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 09965348-9f22-4888-85be-4f70e0566443
+2023-02-04T17:43:38.117+05:30  INFO 20100 --- [http-nio-9001-exec-2] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 09965348-9f22-4888-85be-4f70e0566443
+2023-02-04T17:43:48.285+05:30  INFO 20100 --- [http-nio-9001-exec-3] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: fdb6eecd-092e-4340-af79-3d74b1a1b5ff
+2023-02-04T17:43:58.339+05:30  INFO 20100 --- [http-nio-9001-exec-4] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 881bd3a5-8697-4b0c-bc3a-f57192fe1518
+2023-02-04T17:43:58.364+05:30  INFO 20100 --- [http-nio-9001-exec-5] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 881bd3a5-8697-4b0c-bc3a-f57192fe1518
+2023-02-04T17:44:08.529+05:30  INFO 20100 --- [http-nio-9001-exec-6] c.a.s.controller.SensorPlotController    : Getting all Sensor Details
+2023-02-04T17:44:08.557+05:30  INFO 20100 --- [http-nio-9001-exec-7] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: a84b87f9-a55e-44de-ae39-f0a20cd607d6
+2023-02-04T17:44:18.609+05:30  INFO 20100 --- [http-nio-9001-exec-8] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 9cc5af43-9727-4747-a866-2033234ed87c
+2023-02-04T17:44:28.664+05:30  INFO 20100 --- [http-nio-9001-exec-9] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 09965348-9f22-4888-85be-4f70e0566443
+2023-02-04T17:44:28.687+05:30  INFO 20100 --- [http-nio-9001-exec-10] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: 09965348-9f22-4888-85be-4f70e0566443
+2023-02-04T17:44:38.837+05:30  INFO 20100 --- [http-nio-9001-exec-1] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: fdb6eecd-092e-4340-af79-3d74b1a1b5ff
+2023-02-04T17:44:38.865+05:30  INFO 20100 --- [http-nio-9001-exec-2] c.a.s.controller.SensorPlotController    : Getting the sensor details of the sensor with id: fdb6eecd-092e-4340-af79-3d74b1a1b5ff
+2023-02-04T17:46:27.265+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T17:51:27.273+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T17:56:27.275+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T18:01:27.279+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T18:06:27.287+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T18:11:27.301+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T18:16:27.304+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T18:21:27.318+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T18:26:27.334+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T18:31:27.335+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T18:36:27.345+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T18:41:27.352+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T18:46:27.362+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T18:51:27.374+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T18:56:27.386+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T19:01:27.400+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T19:06:27.405+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T19:11:27.416+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T19:16:27.424+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T19:21:27.438+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T19:26:27.444+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T19:31:27.452+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T19:36:27.467+05:30  INFO 20100 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-02-04T19:39:22.905+05:30  INFO 20100 --- [RMI TCP Connection(522)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-02-04T19:39:22.915+05:30  INFO 20100 --- [RMI TCP Connection(522)-127.0.0.1] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application SENSOR-PLOT with eureka with status DOWN
+2023-02-04T19:39:22.916+05:30  INFO 20100 --- [RMI TCP Connection(522)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1675519762916, current=DOWN, previous=UP]
+2023-02-04T19:39:22.916+05:30  INFO 20100 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SENSOR-PLOT/Ghost:SENSOR-PLOT:9001: registering service...
+2023-02-04T19:39:22.924+05:30  INFO 20100 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SENSOR-PLOT/Ghost:SENSOR-PLOT:9001 - registration status: 204
+2023-02-04T19:39:22.940+05:30  INFO 20100 --- [RMI TCP Connection(522)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-02-04T19:39:22.944+05:30  INFO 20100 --- [RMI TCP Connection(522)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-02-04T19:39:22.973+05:30  INFO 20100 --- [RMI TCP Connection(522)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2023-02-04T19:39:25.982+05:30  INFO 20100 --- [RMI TCP Connection(522)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2023-02-04T19:39:25.986+05:30  INFO 20100 --- [RMI TCP Connection(522)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SENSOR-PLOT/Ghost:SENSOR-PLOT:9001 - deregister  status: 200
+2023-02-04T19:39:25.988+05:30  INFO 20100 --- [RMI TCP Connection(522)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
